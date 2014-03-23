@@ -14,11 +14,13 @@ line 6 change title
 line 237 change pool name
 
 
+
 In graphs.html
 
 line 6 change title
 
 line 58 change pool name
+
 
 
 copy coin icons from wallet source (\src\qt\res\icons) and rename
