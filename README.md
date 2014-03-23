@@ -7,15 +7,15 @@ How install
 ====================
 Put all these files on web-static folder of your p2pool node installation
 
-index.html
-6 change title
-7 favicon.png
-231 coin_icon.png
-237 change pool name
-272 coin_large.png
+In index.html;
+line 6 change title;
+line 237 change pool name;
 
-graphs.html
-6 change title
-7 favicon.png
-52 coin_icon.png
-58 change pool name
+In graphs.html;
+line 6 change title;
+line 58 change pool name;
+
+copy coin icons from wallet source (\src\qt\res\icons) and rename; 
+bitcoin.png -> coin_large.png;
+toolbar.png -> favicon.png;
+bitcoin.ico -> coin_icon.png;
