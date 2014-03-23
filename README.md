@@ -23,10 +23,10 @@ line 58 change pool name
 
 
 
-copy coin icons from wallet source (\src\qt\res\icons) and rename
+copy coin icons from wallet source (\src\qt\res\icons) to img folder
 
-bitcoin.png -> coin_large.png
+bitcoin.png 
 
-toolbar.png -> favicon.png
+toolbar.png 
 
-bitcoin.ico -> coin_icon.png
+bitcoin.ico 
